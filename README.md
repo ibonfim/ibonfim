@@ -9,7 +9,8 @@ Sou descontraída, observadora, responsável ,gosto de pessoas e minha frase pre
 💼 Profissão:
 
 Atuei como técnica em Eletrônica, no ramo de telecomunicações com experiência em uplink via satélite e configurações de equipamentos de áudio , vídeo.
-Atualmente estou no ramo de aplicações web, onde atuo com raspagem de dados,mais conhecido como web crawling.
+Tenho conhecimentos em redes de computadores, circuitos lógicos e hardware.
+Atualmente trabalho com aplicações web, onde atuo com raspagem de dados, mais conhecida como web crawling.
 
 📒 Formação:
 Graduanda em Ciência da computação, busco conhecimentos e aprofundamentos em programação como desenvolvedora front-end e back-end.
