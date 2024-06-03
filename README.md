@@ -5,6 +5,7 @@ Olá!
 
 Sejam bem vindos(as) ao meu perfil! Vou contar-lhes um pouco sobre mim.
 Sou descontraída, observadora, responsável, gosto de ter pessoas por perto e minha frase preferida  é :"Faça aos outros aquilo que gostaria que fosse feito à você".
+
 A tecnologia tem o poder de transformar vidas, permitindo que mais pessoas, como eu, tenham oportunidades e alcancem lugares inimagináveis!
 
 💼 Profissão:
